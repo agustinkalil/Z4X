@@ -1,0 +1,32 @@
+.deLado{
+    float: left;
+    width: auto;
+    margin: 10px 10px 0 10px;
+
+}
+
+.centredo{
+    display: flex;
+    justify-content: center;
+}
+
+.galeria{
+    margin: 5px;
+    border: solid 1px azure;
+    float: left;
+    width: 25vw;
+}
+
+div.galeria img{
+    width: 100%;
+    height: auto;
+}
+
+.descripcion{
+    padding: 15px;
+    text-align: center;
+    background-color: grey;
+    color: blue;
+    font-size: 30px;
+    font-weight: 700;
+}
